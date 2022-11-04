@@ -1,0 +1,2 @@
+Yo whazzz up!  
+git commit vs git commit -m practice 
